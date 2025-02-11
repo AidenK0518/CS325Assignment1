@@ -1,10 +1,10 @@
-# CS325Assignment1
+# CS325Assignment1 (Branch 1)
 
-This project sets out to use definitions to find the run time of a Colltaz Conjuncture.
+This project sets out to use definitions to find the run time of a Colltaz Conjuncture, but calls for every instance to have its runtime posted.
 
-## How the code works
+## How the code works (this time)
 
-The code works by first calling a colltaz method that uses the definition, which loops through the normal Colltaz Conjecture function until it reaches 1. 
+The code works by looping through the Colltaz Conjecture function until it reaches 1. 
 For an Even number, divide n by 2
 For an Odd number, multiply n by 3, then subtract 1.
 
@@ -22,7 +22,7 @@ This is done with this code:
         return colltaz((3*n)+1)
 </code>
 
-### Misc Content
+### Misc Content (Again)
 
 This code was inspired by a Youtube video from Veritasium "The Simplest Math Problem No One Can Solve - Collatz Conjecture" (https://youtu.be/094y1Z2wpJg?si=0dFji01YLuq2rXU9)
 An image relating to Collatz conjecture can be seen here.
